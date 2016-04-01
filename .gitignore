@@ -1,0 +1,7 @@
+/vendor
+/node_modules
+/storage/debugbar
+.DS_Store
+notes.txt
+.idea
+/storage
