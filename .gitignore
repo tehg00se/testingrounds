@@ -3,5 +3,6 @@
 /storage/debugbar
 .DS_Store
 notes.txt
-.idea
+/.idea/workspace.xml
+/.idea
 /storage
